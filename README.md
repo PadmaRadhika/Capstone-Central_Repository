@@ -6,7 +6,7 @@ Welcome to the central repository for QuickSpoon's Food Delivery Application. Be
 - [Repo 2: Shared DB Resources for EC2](https://github.com/PadmaRadhika/Capstone_EC2_Shared_Resources.git )
 - [Repo 3: Eureka Server](https://github.com/PadmaRadhika/Capstone_FoodDelivery_EurekaServer.git)
 - [Repo 4: Config Server](https://github.com/PadmaRadhika/Capstone_Food_Delivery_ConfigServer.git)
-- [Repo 5: Restaurants Microservice](https://github.com/PdmaRadhika/Capstone_Food_Delivery_Restaurants.git)
+- [Repo 5: Restaurants Microservice](https://github.com/PadmaRadhika/Capstone_Food_Delivery_Restaurants.git)
 - [Repo 6: Dishes Microservice](https://github.com/PadmaRadhika/Capstone_Food_Delivery_Dishes.git)
 - [Repo 7: Orders Microservice](https://github.com/PadmaRadhika/Capstone_Food_Delivery_Orders.git)
 - [Repo 8: Payments Microservice](https://github.com/PadmaRadhika/Capstone_Food_Delivery_Payments.git)
